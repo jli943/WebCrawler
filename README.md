@@ -12,6 +12,7 @@ cd project
 pip install Scrapy
 scrapy crawl cc_gatech
 ```
+ Or you can execute run.sh directly.
 
 # 2.Spider Customization
 
