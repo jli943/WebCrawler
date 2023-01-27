@@ -21,7 +21,7 @@ NEWSPIDER_MODULE = 'project1.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-CLOSESPIDER_PAGECOUNT=10
+CLOSESPIDER_PAGECOUNT=1000
 
 #EXTENSIONS = {'scrapy.extensions.statsmailer.StatsMailer': 500}
 

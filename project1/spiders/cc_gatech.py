@@ -22,7 +22,7 @@ class CcGatechSpider(scrapy.Spider):
         # for keyword, urls in self.keywords_dict.items():
         #     yield {'keyword': keyword, 'urls': list(urls)}
         my_dict = self.keywords_dict
-        with open('Keyword_URL_10.csv', 'w') as f:
+        with open('Keyword_URL_1000.csv', 'w') as f:
             for key in my_dict.keys():
                 f.write("%s,%s\n"%(key,my_dict[key]))
         
