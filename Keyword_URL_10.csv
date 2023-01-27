@@ -1,0 +1,44 @@
+College,{'https://www.cc.gatech.edu/calendar', 'https://www.cc.gatech.edu/people', 'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter', 'https://sci.cc.gatech.edu', 'https://www.cc.gatech.edu/support-college', 'https://www.cc.gatech.edu/about/support-the-college/cap', 'https://www.cc.gatech.edu/events', 'https://www.cc.gatech.edu/media-contacts', 'https://www.cc.gatech.edu/', 'https://www.cc.gatech.edu/news', 'https://www.cc.gatech.edu/corporate-recruiting', 'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+of,{'https://www.cc.gatech.edu/calendar', 'https://www.cc.gatech.edu/people', 'https://cse.gatech.edu/', 'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter', 'https://sci.cc.gatech.edu', 'https://www.cc.gatech.edu/corporate-recruiting', 'https://scp.cc.gatech.edu/', 'https://www.cc.gatech.edu/support-college', 'https://www.cc.gatech.edu/events', 'https://www.cc.gatech.edu/media-contacts', 'https://ic.gatech.edu/', 'https://www.cc.gatech.edu/', 'https://www.cc.gatech.edu/news', 'https://www.cc.gatech.edu/about/support-the-college/cap', 'https://scs.gatech.edu/', 'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Computing,{'https://www.cc.gatech.edu/calendar', 'https://www.cc.gatech.edu/people', 'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter', 'https://sci.cc.gatech.edu', 'https://www.cc.gatech.edu/corporate-recruiting', 'https://www.cc.gatech.edu/support-college', 'https://www.cc.gatech.edu/events', 'https://www.cc.gatech.edu/media-contacts', 'https://ic.gatech.edu/', 'https://www.cc.gatech.edu/', 'https://www.cc.gatech.edu/news', 'https://www.cc.gatech.edu/about/support-the-college/cap', 'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+School,{'https://cse.gatech.edu/', 'https://sci.cc.gatech.edu', 'https://scp.cc.gatech.edu/', 'https://ic.gatech.edu/', 'https://scs.gatech.edu/'}
+Computational,{'https://cse.gatech.edu/'}
+Science,{'https://scs.gatech.edu/', 'https://cse.gatech.edu/'}
+and,{'https://scp.cc.gatech.edu/', 'https://cse.gatech.edu/'}
+Engineering,{'https://cse.gatech.edu/'}
+|,{'https://www.cc.gatech.edu/calendar', 'https://www.cc.gatech.edu/people', 'https://cse.gatech.edu/', 'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter', 'https://www.cc.gatech.edu/corporate-recruiting', 'https://www.cc.gatech.edu/support-college', 'https://www.cc.gatech.edu/events', 'https://www.cc.gatech.edu/media-contacts', 'https://ic.gatech.edu/', 'https://www.cc.gatech.edu/news', 'https://www.cc.gatech.edu/about/support-the-college/cap', 'https://scs.gatech.edu/', 'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Interactive,{'https://ic.gatech.edu/'}
+Computer,{'https://scs.gatech.edu/'}
+Events,{'https://www.cc.gatech.edu/events'}
+Support,{'https://www.cc.gatech.edu/support-college'}
+the,{'https://sci.cc.gatech.edu', 'https://www.cc.gatech.edu/support-college', 'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+Corporate,{'https://www.cc.gatech.edu/corporate-recruiting', 'https://www.cc.gatech.edu/about/support-the-college/cap'}
+Affiliates,{'https://www.cc.gatech.edu/about/support-the-college/cap'}
+Program,{'https://www.cc.gatech.edu/about/support-the-college/cap'}
+Recruiting,{'https://www.cc.gatech.edu/corporate-recruiting'}
+Directory,{'https://www.cc.gatech.edu/people'}
+Instruction,{'https://sci.cc.gatech.edu'}
+–,{'https://sci.cc.gatech.edu'}
+Undergraduate,{'https://sci.cc.gatech.edu'}
+Teaching,{'https://sci.cc.gatech.edu'}
+in,{'https://sci.cc.gatech.edu'}
+Cybersecurity,{'https://scp.cc.gatech.edu/'}
+Privacy,{'https://scp.cc.gatech.edu/'}
+New,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Global,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Top-5,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Ranking,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Based,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+on,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Faculty,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Research,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Success,{'https://www.cc.gatech.edu/news/648961/new-global-top-5-ranking-based-faculty-research-success'}
+Media,{'https://www.cc.gatech.edu/media-contacts'}
+Contacts,{'https://www.cc.gatech.edu/media-contacts'}
+The,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+Compiler,,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+GT,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+Community's,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+Weekly,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+Newsletter,{'https://www.cc.gatech.edu/compiler-gt-computing-communitys-weekly-newsletter'}
+News,{'https://www.cc.gatech.edu/news'}
